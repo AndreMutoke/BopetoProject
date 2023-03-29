@@ -1,2 +1,2 @@
-# JeuxSurConsoleCMDWindows
-Juste un petit jeux sur la console. J'ai une petite machine qui n'arrive pas a supporter des jeux, du coup je me suis dit de pouvoir realiser un petit truc sur la console cmd de windows
+# BopetoProject
+In our country, it so complicate to optimise the sanitation. Using our knowledge in differents technologie, we purpose to implemente Bopeto. Bopete will help differents sanitation's companies to optimise his service.
